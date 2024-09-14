@@ -18,7 +18,7 @@ const Reservation = () => {
     e.preventDefault();
     try {
       const { data } = await axios.post(
-        "https://static-restaurent-website-with-db.onrender.com/api/v1/reservation/send",
+        "https://mern-restaurant-website-o3dr.onrender.com/api/v1/reservation/send",
         { name, lastName, email, phone, date, time },
         {
           headers: {
