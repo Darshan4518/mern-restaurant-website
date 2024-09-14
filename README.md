@@ -2,7 +2,7 @@
 
 <h1>Hero Section</h1>
 
-![Screenshot 2024-09-14 152221](https://github.com/user-attachments/assets/2d7c8b31-6560-475a-b39a-eb3b4e67217e)
+![Screenshot 2024-09-14 155509](https://github.com/user-attachments/assets/6df06282-8def-481c-9de9-38e94109c06f)
 
 <h1>About Section</h1>
 
