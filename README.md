@@ -6,18 +6,19 @@
 
 <h1>About Section</h1>
 
-![Screenshot 2024-09-14 152448](https://github.com/user-attachments/assets/984ed0f2-cf77-4e1d-8e4c-eb8c8c8e40f3)
+![Screenshot 2024-09-14 155748](https://github.com/user-attachments/assets/24580544-4242-42f5-9277-69be2acba002)
 
-![Screenshot 2024-09-14 152515](https://github.com/user-attachments/assets/81e3af91-d702-4edb-bc83-76e3f1024213)
+![Screenshot 2024-09-14 155837](https://github.com/user-attachments/assets/ec5bd864-59f9-4622-939c-d626eb2e9122)
 
 <h1>Popular Dishes</h1>
 
-![Screenshot 2024-09-14 152605](https://github.com/user-attachments/assets/a35e40e7-7fc7-46b7-88cd-40fcd6d70f56)
+![Screenshot 2024-09-14 155943](https://github.com/user-attachments/assets/4a490c3a-14a0-4e44-b25a-65c2f79b68e1)
 
 
-![Screenshot 2024-09-14 152702](https://github.com/user-attachments/assets/2757c823-29e5-498f-a909-f38ddd7c7279)
+![Screenshot 2024-09-14 160038](https://github.com/user-attachments/assets/d493b741-35d2-4d9f-af9d-e59732554fc7)
+
 
 <h1>Resarvation Section</h1>
 
-![Screenshot 2024-09-14 152730](https://github.com/user-attachments/assets/2caca162-9bca-498f-8696-e0f86e064e4c)
+![Screenshot 2024-09-14 160134](https://github.com/user-attachments/assets/73c64b7b-aff1-425f-a727-ce73706f9ca3)
 
